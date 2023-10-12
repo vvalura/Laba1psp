@@ -46,7 +46,7 @@ public class Employee {
     }
 
     public void printAll() {
-        System.out.println("Фамилия1: " + surname);
+        System.out.println("Фамилия2: " + surname);
         System.out.println("Зарплата: " + salary);
         if (hasKids) {
             System.out.println("Есть дети.");
